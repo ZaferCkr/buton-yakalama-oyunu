@@ -1,0 +1,16 @@
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\bin\Debug\net8.0-windows\buton yakalama oyunu.exe
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\bin\Debug\net8.0-windows\buton yakalama oyunu.deps.json
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\bin\Debug\net8.0-windows\buton yakalama oyunu.runtimeconfig.json
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\bin\Debug\net8.0-windows\buton yakalama oyunu.dll
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\bin\Debug\net8.0-windows\buton yakalama oyunu.pdb
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\obj\Debug\net8.0-windows\buton_yakalama_oyunu.Form1.resources
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\obj\Debug\net8.0-windows\buton yakalama oyunu.csproj.GenerateResource.cache
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\obj\Debug\net8.0-windows\buton yakalama oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\obj\Debug\net8.0-windows\buton yakalama oyunu.AssemblyInfoInputs.cache
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\obj\Debug\net8.0-windows\buton yakalama oyunu.AssemblyInfo.cs
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\obj\Debug\net8.0-windows\buton yakalama oyunu.csproj.CoreCompileInputs.cache
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\obj\Debug\net8.0-windows\buton yakalama oyunu.dll
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\obj\Debug\net8.0-windows\refint\buton yakalama oyunu.dll
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\obj\Debug\net8.0-windows\buton yakalama oyunu.pdb
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\obj\Debug\net8.0-windows\buton yakalama oyunu.genruntimeconfig.cache
+C:\Users\zafer\source\repos\buton yakalama oyunu\buton yakalama oyunu\obj\Debug\net8.0-windows\ref\buton yakalama oyunu.dll
